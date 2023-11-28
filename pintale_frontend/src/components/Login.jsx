@@ -1,9 +1,20 @@
 import React from 'react';
-import { GoogleOAuthProvider } from '@react-oauth/google';
+import { GoogleLogin, googleLogout } from '@react-oauth/google';
 
 const Login = () => {
+  const user = false
+
   return (
-    <div>Login</div>
+    <div>
+      {user ? (
+        <div>Logged in</div>
+      ) : (
+        <GoogleLogin
+          onSuccess={(response) => console.log(response)}
+          onError={() => console.log('Error')}
+        />
+      )}
+    </div>
   )
 }
 
