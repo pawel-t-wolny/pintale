@@ -1,8 +1,9 @@
 ⚙️ Work in progress ⚙️
 
-##  📌 Pintale
-
-A social media web application called **Pintale**, being a blend between Instagram and Pinterest.
+<img src="https://github.com/pawel-t-wolny/pintale/assets/146446693/05fb7288-d32b-4b86-89c4-70369879ca6f" alt="drawing" width="200"/>
+<br>
+<br>
+A social media web application called Pintale, being a blend between Instagram and Pinterest.
 
 Frontend is created using **React.js** and **Tailwind CSS**. Backend is based on **Sanity CMS** for simplicity.
 
