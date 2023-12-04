@@ -1,6 +1,6 @@
 *Work in progress :)*
 
-## Pintale 📌 
+##  📌 Pintale
 
 A social media web application called **Pintale**, being a blend between Instagram and Pinterest.
 
